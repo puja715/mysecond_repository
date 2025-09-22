@@ -1,3 +1,2 @@
-this is my second repository
-added extra text into the local.
-added a new line in the branch1
+remove all the content and its a branch2
+
